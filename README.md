@@ -1,16 +1,10 @@
-# scorekeeper_flutter
+A simple scorekeeper app is a beginner-friendly project that can track scores and fouls in a match between two teams. It’s built with Flutter.
 
-A new Flutter project.
+| iOS         | Android |
+| ----------- | ----------- |
+| <video src="https://github.com/Donaboyev/ScorekeeperAppFlutter/assets/56734609/ae8d41a4-b291-4a24-985f-5d42d5897d9b">      | <video src="https://github.com/Donaboyev/ScorekeeperAppFlutter/assets/56734609/7af0af69-ff0c-4441-8bc0-3abff26c5cf6"> |
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Other versions 
+* [Android Java](https://github.com/Donaboyev/ScoreKeeperAppAndroidJava)
+* [Android Kotlin](https://github.com/Donaboyev/ScorekeeperAppAndroidKotlin)
+* [Jetpack Compose](https://github.com/Donaboyev/ScorekeeperAppJetpackCompose)
